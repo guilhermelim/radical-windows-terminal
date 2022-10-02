@@ -1,0 +1,23 @@
+{
+  "name": "Radical",
+  "cursorColor": "#FE428E",
+  "selectionBackground": "#242560",
+  "background": "#141322",
+  "foreground": "#A9D2D4",
+  "black": "#30317D",
+  "blue": "#7DD9E4",
+  "cyan": "#A8FFEF",
+  "green": "#D8FF4E",
+  "purple": "#FA61B8",
+  "red": "#FF5395",
+  "white": "#CFF0E8",
+  "yellow": "#FFFC7E",
+  "brightBlack": "#391AB5",
+  "brightBlue": "#84F9FE",
+  "brightCyan": "#83FEE8",
+  "brightGreen": "#C8FF00",
+  "brightPurple": "#D5358F",
+  "brightRed": "#FF427B",
+  "brightWhite": "#CBFFF2",
+  "brightYellow": "#F8D846"
+}
